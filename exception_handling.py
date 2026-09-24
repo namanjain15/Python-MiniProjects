@@ -95,7 +95,7 @@ while True:
     print("5. Exit")
 
     try:
-        choice = int(input("\nEnter your choice: "))
+        choice = int(input("\nEnter your choice (according to the serial number): "))
 
         if choice == 1:
 
