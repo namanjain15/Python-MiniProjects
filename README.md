@@ -21,6 +21,13 @@ A collection of beginner-friendly Python programs created to practice and unders
 7. F-strings
 8. Docstrings
 9. PEP 8
+10. Short hand if-else
+11. Enumerate function
+12. Virtual environment (about)
+13. Import
+14. Modules
+15. OS Modules
+16. Local and Global Variables
 
 🔹 Functions
 1. Functions in Python
@@ -30,6 +37,7 @@ A collection of beginner-friendly Python programs created to practice and unders
 5. Default Arguments
 6. Variable-length Arguments
 7. Recursion
+8. If __name__ == "__main__"
 
 🔹 Data Structures
 1. Lists
