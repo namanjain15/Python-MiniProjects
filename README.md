@@ -26,8 +26,8 @@ A collection of beginner-friendly Python programs created to practice and unders
 12. Virtual environment (about)
 13. Import
 14. Modules
-15. OS Modules
-16. Local and Global Variables
+15. Local and Global Variables
+16. "==" vs "is"
 
 🔹 Functions
 1. Functions in Python
@@ -37,7 +37,9 @@ A collection of beginner-friendly Python programs created to practice and unders
 5. Default Arguments
 6. Variable-length Arguments
 7. Recursion
-8. If __name__ == "__main__"
+<!-- 8. If __name__ == "__main__" -->
+9. Lambda Function
+10. Map, Filter, Reduce
 
 🔹 Data Structures
 1. Lists
@@ -58,3 +60,8 @@ A collection of beginner-friendly Python programs created to practice and unders
 6. raise
 7. Raising Custom Errors
 8. Custom Exceptions
+
+🔹 OS control
+1. OS Modules
+2. File Handling (File I/O)
+3. File I/O methods
