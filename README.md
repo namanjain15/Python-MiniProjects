@@ -37,7 +37,7 @@ A collection of beginner-friendly Python programs created to practice and unders
 5. Default Arguments
 6. Variable-length Arguments
 7. Recursion
-<!-- 8. If __name__ == "__main__" -->
+8. If __name__ == "__main__"
 9. Lambda Function
 10. Map, Filter, Reduce
 
@@ -65,3 +65,12 @@ A collection of beginner-friendly Python programs created to practice and unders
 1. OS Modules
 2. File Handling (File I/O)
 3. File I/O methods
+
+🔹 OOPs
+1. Classes
+2. Objects
+3. Self Parameter
+4. Constructor
+5. Decorator
+6. Getter
+7. Setter
